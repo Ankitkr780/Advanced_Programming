@@ -14,7 +14,7 @@
 
 **Course Code:** CSBT215
 
-**Instructor:** NABAJYOTI MEHDI
+**Instructor:** NABAJYOTI MEDHI
 
 **Semester:** 4th 
 
@@ -90,8 +90,7 @@ Assignments were implemented using multiple technologies depending on the proble
 
 Repository Link:
 
-[Paste Repository URL Here]
-
+[https://github.com/Ankitkr780/Advanced_Programming]
 ---
 
 ## Declaration
